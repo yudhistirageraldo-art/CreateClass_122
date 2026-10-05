@@ -1,4 +1,3 @@
-# Membuat class bernama PersegiPanjang
 class PersegiPanjang:
 
     # Constructor, dijalankan otomatis saat objek dibuat
